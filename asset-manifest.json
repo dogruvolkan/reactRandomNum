@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactRandomNum/static/css/main.87c1f250.css",
+    "main.js": "/reactRandomNum/static/js/main.f928e994.js",
+    "index.html": "/reactRandomNum/index.html",
+    "main.87c1f250.css.map": "/reactRandomNum/static/css/main.87c1f250.css.map",
+    "main.f928e994.js.map": "/reactRandomNum/static/js/main.f928e994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c1f250.css",
+    "static/js/main.f928e994.js"
+  ]
+}
